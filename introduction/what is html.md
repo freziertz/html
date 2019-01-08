@@ -1,9 +1,16 @@
 # How the Web Works
 May be you ask yourself where is this information come from
-how web worked
+how web worked 
+
 When you visit a website, the web server hosting that site could be anywhere in the
 world. In order for you to find the location of the web server, your browser will first connect
 to a Domain Name System (DNS) server.
+
+# Browser / Web browser
+A web browser (commonly referred to as a browser) is a software application for accessing information on the World Wide Web. Each individual web page, image, and video is identified by a distinct URL, enabling browsers to retrieve and display them on the user's device.
+
+Some common *web browser* are Firefox, Internet Explorer, Safari, Chrome, and Opera.
+
 
 # The Internet Versus the Web
 
