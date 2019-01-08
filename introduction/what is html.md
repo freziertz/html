@@ -6,6 +6,12 @@ When you visit a website, the web server hosting that site could be anywhere in 
 world. In order for you to find the location of the web server, your browser will first connect
 to a Domain Name System (DNS) server.
 
+# Web Server
+Web servers are computers which runs web server application that are constantly
+connected to the Internet, and
+are optimized to send web pages
+out to people who request them.
+
 # Browser / Web browser
 A web browser (commonly referred to as a browser) is a software application for accessing information on the World Wide Web. Each individual web page, image, and video is identified by a distinct URL, enabling browsers to retrieve and display them on the user's device.
 
