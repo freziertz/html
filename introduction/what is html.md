@@ -1,6 +1,9 @@
 # How the Web Works
 May be you ask yourself where is this information come from
 how web worked
+When you visit a website, the web server hosting that site could be anywhere in the
+world. In order for you to find the location of the web server, your browser will first connect
+to a Domain Name System (DNS) server.
 
 # The Internet Versus the Web
 
@@ -13,12 +16,65 @@ for Internet Protocol). For example, the computer that hosts oreilly.com
 has the IP address 208.201.239.100.
 
 # Domain Name System (DNS)
+It is the DNS servers that tell your
+browser how to find the website.
+
+
 All those numbers can be dizzying, so
 fortunately, the Domain Name System (DNS) was developed to allow us to
 refer to that server by its domain name, “oreilly.com”, as well. The numeric
 IP address is useful for computer software, while the domain name is more
 accessible to humans. Matching the text domain names to their respective
 numeric IP addresses is the job of a separate DNS server
+
+the browser in Cambridge contacts
+a DNS server in London. The
+DNS server then tells the
+browser the location of the web
+server hosting the site in Paris.
+
+When you connect to the web,
+you do so via an Internet Service
+Provider (ISP). You type a
+domain name or web address
+into your browser to visit a site;
+for example:
+.com,
+google.
+.uk,
+.com.
+bbc.co.
+microsoft
+
+
+Your computer contacts a
+network of servers called
+Domain Name System (DNS)
+servers. These act like phone
+books; they tell your computer
+the IP address associated with
+the requested domain name.
+An IP address is a number
+of up to 12 digits separated
+by periods / full stops. Every
+device connected to the web
+has a unique IP address; it is
+like the phone number for that
+computer.
+
+Cambridge
+LONDON
+The unique number that the
+DNS server returns to your
+computer allows your browser
+to contact the web server
+that hosts the website you
+requested. A web server is a
+computer that is constantly
+connected to the web, and is set
+up especially to send web pages
+to users.
+
 
 # Open Source
 Open source software is developed as
