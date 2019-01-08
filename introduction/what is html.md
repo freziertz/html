@@ -7,20 +7,21 @@ world. In order for you to find the location of the web server, your browser wil
 to a Domain Name System (DNS) server.
 
 # Web Server
-Web servers are computers which runs web server application that are constantly
-connected to the Internet, and
-are optimized to send web pages
-out to people who request them.
+Web servers are computers which runs web server software that are constantly connected to the Internet, and are optimized to send web pages out to people who request them. Big company have their own web server but most companies use service from web hosting company for fee which nomally they pay monthly or annually.
+
+# Internet service provider
+
 
 # Browser / Web browser
 A web browser (commonly referred to as a browser) is a software application for accessing information on the World Wide Web. Each individual web page, image, and video is identified by a distinct URL, enabling browsers to retrieve and display them on the user's device.
 
-Some common *web browser* are Firefox, Internet Explorer, Safari, Chrome, and Opera.
+Some common **web browser** are Firefox, Internet Explorer, Safari, Chrome, and Opera.
 
 
 # The Internet Versus the Web
 
 # Network
+A network is a collection of computing devices connected to one another to allow the sharing of data. An excellent example of a network is the Internet, which connects millions of people all over the world. 
 
 # IP address
 Every computer and device (modem, router, smartphone, cars, etc.) connected
