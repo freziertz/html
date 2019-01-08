@@ -1,11 +1,10 @@
-
-#How the Web Works
+# How the Web Works
 May be you ask yourself where is this information come from
 how web worked
 
-#The Internet Versus the Web
+# The Internet Versus the Web
 
-#Network
+# Network
 
 #IP address
 Every computer and device (modem, router, smartphone, cars, etc.) connected
