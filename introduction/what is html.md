@@ -6,13 +6,13 @@ how web worked
 
 # Network
 
-#IP address
+# IP address
 Every computer and device (modem, router, smartphone, cars, etc.) connected
 to the Internet is assigned a unique numeric IP address (IP stands
 for Internet Protocol). For example, the computer that hosts oreilly.com
 has the IP address 208.201.239.100.
 
-#Domain Name System (DNS)
+# Domain Name System (DNS)
 All those numbers can be dizzying, so
 fortunately, the Domain Name System (DNS) was developed to allow us to
 refer to that server by its domain name, “oreilly.com”, as well. The numeric
@@ -20,7 +20,7 @@ IP address is useful for computer software, while the domain name is more
 accessible to humans. Matching the text domain names to their respective
 numeric IP addresses is the job of a separate DNS server
 
-#Open Source
+# Open Source
 Open source software is developed as
 a collaborative effort with the intent
 to make its source code available
@@ -28,7 +28,7 @@ to other programmers for use and
 modification. Open source programs
 are usually available for free.
 
-#IP 4 or IP 6
+# IP 4 or IP 6
 The IANA, the organization that assigns IP numbers, handed out its last bundle of IP
 addresses on February 3, 2011. That’s right, no more ###.###.###.###-style IPs. That
 format of IP address (called IPv4) is able to produce 4.3 billion unique addresses,
@@ -42,19 +42,19 @@ the one we have today. Eventually, IPv4 will be phased out, but some say it will
 decades.
 
 
-#Protocal
+# Protocal
 These standardized methods for
 transferring data or documents over a network
 
 
-#Internet
+# Internet
  is a network of connected computers. The purpose of connecting computers together, of course, is to share
 information. There are many ways information can be passed between
 computers, including email, file transfer (FTP), and many more specialized
 modes upon which the Internet is built. These standardized methods for
 transferring data or documents over a network are known as protocols
  
-#web
+# web
 The Web is a subset of the Internet. It is just one of many ways information can be transferred overnetworked computers
 
 The Web (originally called the World Wide Web, thus the “www” in
@@ -65,7 +65,7 @@ The Web uses a protocol called HTTP (HyperText Transfer Protocol).
 That acronym should look familiar because it is the first four letters of nearly
 all website addresses, as we’ll discuss in an upcoming section
 
-#why computer need to be connected to the network
+# why computer need to be connected to the network
 The purpose of connecting computers together, of course, is to share
 information
 
