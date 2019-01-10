@@ -145,7 +145,12 @@ information
 
 # HTML
 What is HTML
-HTML markup language for creating Web pages
+HTML is markup language for creating Web pages
+HTML stands for Hyper Text Markup Language
+HTML is the World Wide Web’s core markup language
+Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications.
+
+
 
 A basic HTML document looks like this:
 
