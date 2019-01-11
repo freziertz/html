@@ -37,9 +37,16 @@ Tuache maneno mengi twende kwenye kutengeneza kurasa *code*
 <html>
   <head>
     <meta charset="utf-8">
-    <title>My test page</title>
+    <title>Kurasa yanngu ya kwanza</title>
   </head>
   <body>
+    <h1>Kurasa yangu</h1>
+    <p>Leo nina furaha sana maana nimeweza kutengeneza kurasa yangu ya kwanza ya mtandao.
+      shida kubwa sijui mtandao wangu nitauitaje? halafu sijui watu watawezaji kuufikia
+    </p>
+    
+    <p>Ila mwalimu amenitoa shaka ya kwamba atatuelekeza hayo yote huko mbele.
+    Yaani nikimaliza kitabu hiki najua A to Z</p>
     <img src="images/firefox-icon.png" alt="My test image">
   </body>
 </html>
