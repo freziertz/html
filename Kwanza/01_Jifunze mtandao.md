@@ -51,4 +51,7 @@ Tuache maneno mengi twende kwenye kutengeneza kurasa *code*
   </body>
 </html>
 ```
+Hapa, kuna vitu vifuatavyo vya msingi ambavyo vinaunda hii kurasa
+
+* `<!DOCTYPE html>` - Hii inakaa kwenye mstari wa kwanza kabisa kabla ya vitu vingine, yenyewe inaonyesha kanuni zipi za *HTML* ulizotumia kutengeneza kurasa yako. Mfano hii yetu ni *HTML5*
 
