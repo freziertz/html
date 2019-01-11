@@ -28,9 +28,9 @@ Kitu cha msingi ni kwamba *HTML* sio programing languaje ni markup language. HTM
 Tuache maneno mengi twende kwenye kutengeneza kurasa *code* 
 
 # Kurasa yako ya kwanza
-1. Fungua notepad kwenye komputa yako, fungua *file* jipya *copy code* hiza hapa chini kisha paste kwenye *file* lako kwa jina hili **index.html**
+1. Fungua notepad kwenye komputa yako, fungua *file* jipya *copy code* hizi hapa chini kisha *paste* kwenye *file* lako kwa jina hili **index.html**
 
-**index.html**
+
 
 ```html
 
