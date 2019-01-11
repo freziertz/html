@@ -1,3 +1,22 @@
+# Who is this book for
+If you can answer “yes” to all of these:
+
+1. Do you have access to a computer with a Web browser and a text editor?
+2. Do you want to learn, understand, and remember how to create Web pages using the best techniques and the most recent standards
+
+this book is for you.
+
+# Who should probably back away from this book?
+1. Are you completely new to computers?
+(You don’t need to be advanced, but you should understand folders and files, simple text editing applications, and how to use a Web browser.)
+2. Are you a kick-butt Web developer looking for a reference book?
+3. Are you afraid to try something different? Would you rather have a root canal than mix stripes with plaid? Do you believe that a technical book can’t be serious if HTML tags are anthropomorphized?
+
+this book is not for you.
+
+# We don’t cover every single HTML element or attribute ever created.
+There are a lot of HTML elements and a lot of attributes. we don’t cover them all here. Our focus is on the core HTML elements that matter to you, the beginner, and making sure that you really, truly, deeply understand how and when to use them.
+
 # How the Web Works
 May be you ask yourself where is this information come from
 how web worked 
@@ -9,11 +28,21 @@ to a Domain Name System (DNS) server.
 # Web Server
 Web servers are computers which runs web server software that are constantly connected to the Internet, and are optimized to send web pages out to people who request them. Big company have their own web server but most companies use service from web hosting company for fee which nomally they pay monthly or annually.
 
+Web servers have a full time job on the Internet, tirelessly waiting for requests from Web browsers. What kinds of requests? Requests for Web pages, images, sounds, or maybe even a movie. When a server gets a request for any of these resources, the server finds the resource, and then sends it back to the browser
+
 # Internet service provider
 
 
 # Browser / Web browser
 A web browser (commonly referred to as a browser) is a software application for accessing information on the World Wide Web. Each individual web page, image, and video is identified by a distinct URL, enabling browsers to retrieve and display them on the user's device.
+
+
+
+# What does the Web browser do?
+You already know how a browser works: you’re surfing around the Web and you click on a linkto visit a page. That click causes your browser to request an HTML page from a Web server, retrieve it, and display the page in your browser window.
+
+But, how does the browser know how to display a page? That’s where HTML comes in. HTML tells the
+browser all about the content and structure of the page. Let’s see how that works
 
 Some common **web browser** are Firefox, Internet Explorer, Safari, Chrome, and Opera.
 
@@ -144,10 +173,13 @@ information
 
 
 # HTML
+
 What is HTML
+The Language of the Web
 HTML is markup language for creating Web pages
 HTML stands for Hyper Text Markup Language
 HTML is the World Wide Web’s core markup language
+HTML describes the structure of a web page
 Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications.
 
 
