@@ -56,3 +56,5 @@ Hapa, kuna vitu vifuatavyo vya msingi ambavyo vinaunda hii kurasa
 
 * `<!DOCTYPE html>` - Hii inakaa kwenye mstari wa kwanza kabisa kabla ya vitu vingine, yenyewe inaonyesha kanuni zipi za *HTML* ulizotumia kutengeneza kurasa yako. Mfano hii yetu ni *HTML5*
 
+* `<html></html>` —  `<html>` *element*. Hii This *element* inafungia au inazungushia kurasa nzima na inajulikana kama *root element* yaani mzizi wa element zote.
+
