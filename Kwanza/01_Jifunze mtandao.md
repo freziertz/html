@@ -45,6 +45,9 @@ hivyo utaona kwamba *element* ina sehemu kuu nne
 3. *Content* aya ni maudhui *content* ya *element* kwa mfano wetu wa *paragraph* ni maelezo ya maandishi tu *'Ngorongoro ni moja ya vivutio vikubwa sana nchini kutokana na maajabu yake'*.
 4. *The element* alama ya kuanzia, alama ya kufungia pamoja na maelezo yaliyo ndani yako ndio yanafanya element
 
+**Kumbuka**
+*html element* unaweza ukaiziandika kwa herufi kubwa `<BODY></BODY>` au `<BODY></Body>` au `<body></body>`. hizo zote zina maana sawa ila inashariwa uandike zote kwa herufi ndogo ili ziwe zinafanana na zisomeke vizuri,
+
 Tuache maneno mengi twende kwenye kutengeneza kurasa *code* 
 
 # Kurasa yako ya kwanza
