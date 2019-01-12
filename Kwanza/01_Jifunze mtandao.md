@@ -42,13 +42,19 @@ na aya *paragraph* unaandika hivi
 hivyo utaona kwamba *element* ina sehemu kuu nne
 1. *Opening tag* hii ni alama ya kuanzia kwenye mfano wetu wa *paragraph* hapo juu `<p>` ndio alama ya kuanzia. Kwa maneno mengine kila unapotaka kuandika aya lazima uanze na `<p>`. Kitu cha kuangalia ni kwamba kila alama ya kuanzia lazima iwe ndani ya `<>`
 2. *Closing tag* hii ni alama ya kufungia, kwenye mfano wetu wa *paragraph* hapo juu `</p>` ndio alama ya kufungia. Vile vile kila aya ni lazima imalizikie na `</p>`. Angalia kwa makini alama ya kufungia inatakiwa iwe ndani ya `</>`.
-3. *Content* Aya ni maudhui *content* ya *element* kwa mfano wetu wa *paragraph* ni maelezo ya maandishi tu *'Ngorongoro ni moja ya vivutio vikubwa sana nchini kutokana na maajabu yake'*.
+3. *Content* aya ni maudhui *content* ya *element* kwa mfano wetu wa *paragraph* ni maelezo ya maandishi tu *'Ngorongoro ni moja ya vivutio vikubwa sana nchini kutokana na maajabu yake'*.
 4. *The element* alama ya kuanzia, alama ya kufungia pamoja na maelezo yaliyo ndani yako ndio yanafanya element
 
 Tuache maneno mengi twende kwenye kutengeneza kurasa *code* 
 
 # Kurasa yako ya kwanza
-1. Fungua notepad kwenye komputa yako, fungua *file* jipya *copy code* hizi hapa chini kisha *paste* kwenye *file* lako kwa jina hili **index.html**
+1. Fungua notepad kwenye komputa yako, fungua *file* jipya 
+2. *copy html code* hizi hapa chini kisha 
+3. *paste* kwenye *file* lako ulilofungua 
+4. sevu kwa jina hili **index.html**
+5. Kisha fungua ilo file kwenye browser yako unayoipenda
+6. Utaona imeonyesha ifuatayo
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -68,6 +74,12 @@ Tuache maneno mengi twende kwenye kutengeneza kurasa *code*
   </body>
 </html>
 ```
+Jitahidi ufuate maelezo haya chini uweze kutengeneza kurasa yako ya kwanza
+1. Copy the HTML page example listed above.
+2. Create a new file in your text editor.
+3. Paste the code into the new text file.
+4. Save the file as index.html.
+5. 
 Hapa, kuna vitu vifuatavyo vya msingi ambavyo vinaunda hii kurasa
 
 *HTML* sio programming language ni markup langauge ni lugha 
@@ -78,8 +90,12 @@ The HTML document itself begins with <html> and ends with </html>.
 
 The visible part of the HTML document is between <body> and </body>.
 
-* `<!DOCTYPE html>` - Hii inakaa kwenye mstari wa kwanza kabisa kabla ya vitu vingine vyote, yenyewe inaonyesha kanuni zipi za *HTML* ulizotumia kutengeneza kurasa yako. Mfano hii yetu ni *HTML5* ambayo ndio teknolojia mpya kabisa inayo tumika hivi sasa.
+1 `<!DOCTYPE html>` - Hii inakaa kwenye mstari wa kwanza kabisa kabla ya vitu vingine vyote, yenyewe inaonyesha kanuni zipi za *HTML* ulizotumia kutengeneza kurasa yako. Mfano hii yetu ni *HTML5* ambayo ndio teknolojia mpya kabisa inayo tumika hivi sasa.
 
-* `<html></html>` —  `<html>` *element*. huu ni mzizi wa *element* zote *(root element)*. Kurasa zote za mtandao lazima zianze na  `<html>` na kumalizikia na `</html>`.
-* 
+2 `<html></html>` —  `<html>` *element*. huu ni mzizi wa *element* zote *(root element)*. Kurasa zote za mtandao lazima zianze na  `<html>` na kumalizikia na `</html>`.
+3 `<head></head>`. Hii ni ` <head>` *element*. Hii ni sehemu ambayo unaitumia kuweka vitu vyote ambavyo sio sehemu ya maudhui yako. au vila ambavyo vinatakiwa kwenye kurasa yako lakini mtumiaji wa mtandao hatakiwi kiviona. Hivi ni vitu kama vile *keywords* ambavyo vinaitajika kwenye *search engine* kama google, *CSS* kwa ajili ya kulemba na kuipa mwonekano mzuri kurasa zako. hivi ni vitu ambavyo utajifunza baadae.
+3 `<meta charset="utf-8">`. Hii inahitajika ili kuzitaarifu *browser* za watumiaji wako kwamba kurasa yako inaelewa lugha karibu zote za duniani yaani zikiwemo kingereza, kifansa, kiswahili, kiyahudi, kichina na kiarabu. usipoiweka hii maandishi yako yanaweza yasionekane vizuri. anagalia uchawi wako hapa ni `charset="utf-8"`
+4 `<title></title>`. Hii `<title>` *element* inaweka jina la kurasa yako. jina ili linatumika kwenye *tab* na *bookmark/favorite*
+5 `<body></body>` Hii `<body>` *element*  ni sehemu ambayo unajimwaga. unaweka vitu vyote ambavyo unataka mtumiaji wako avione. vitu kama vile vichwa vya habari, *link*, aya, video, gemu, orodha, jedwali, sauti, picha na mengineyo. Kwenye waraka huu nitakueleza yote hayo unayawekaje
+
 
