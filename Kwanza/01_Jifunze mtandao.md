@@ -38,8 +38,8 @@ na aya *paragraph* unaandika hivi
 ```html
 <p>Ngorongoro ni moja ya vivutio vikubwa sana nchini kutokana na maajabu yake</p>
 ```
-[![alt text](/grumpy-cat-small.png)]
-(https://github.com/freziertz/html/Kwanza/ "Title")
+![Drag Racing](https://github.com/freziertz/html/edit/master/Kwanza/grumpy-cat-small.png)
+
 
 Ukichunguza kwa makini hiyo picha ya *element* hapo juu utaona kwamba *element* ina sehemu kuu nne
 1. *Opening tag* hii ni alama ya kuanzia kwenye mfano wetu wa *paragraph* hapo juu `<p>` ndio alama ya kuanzia. Kwa maneno mengine kila unapotaka kuandika aya lazima uanze na `<p>`. Kitu cha kuangalia ni kwamba kila alama ya kuanzia lazima iwe ndani ya `<>`
