@@ -74,21 +74,8 @@ Tuache maneno mengi twende kwenye kutengeneza kurasa *code*
   </body>
 </html>
 ```
-Jitahidi ufuate maelezo haya chini uweze kutengeneza kurasa yako ya kwanza
-1. Copy the HTML page example listed above.
-2. Create a new file in your text editor.
-3. Paste the code into the new text file.
-4. Save the file as index.html.
-5. 
+
 Hapa, kuna vitu vifuatavyo vya msingi ambavyo vinaunda hii kurasa
-
-*HTML* sio programming language ni markup langauge ni lugha 
-
-All HTML documents must start with a document type declaration: <!DOCTYPE html>.
-
-The HTML document itself begins with <html> and ends with </html>.
-
-The visible part of the HTML document is between <body> and </body>.
 
 1. `<!DOCTYPE html>` - Hii inakaa kwenye mstari wa kwanza kabisa kabla ya vitu vingine vyote, yenyewe inaonyesha kanuni zipi za *HTML* ulizotumia kutengeneza kurasa yako. Mfano hii yetu ni *HTML5* ambayo ndio teknolojia mpya kabisa inayo tumika hivi sasa.
 
