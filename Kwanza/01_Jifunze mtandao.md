@@ -38,7 +38,7 @@ na aya *paragraph* unaandika hivi
 ```html
 <p>Ngorongoro ni moja ya vivutio vikubwa sana nchini kutokana na maajabu yake</p>
 ```
-![Drag Racing](https://github.com/freziertz/html/edit/master/Kwanza/grumpy-cat-small.png)
+![HTML Element](https://github.com/freziertz/html/blob/master/Kwanza/grumpy-cat-small.png)
 
 
 Ukichunguza kwa makini hiyo picha ya *element* hapo juu utaona kwamba *element* ina sehemu kuu nne
