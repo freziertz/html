@@ -38,8 +38,10 @@ na aya *paragraph* unaandika hivi
 ```html
 <p>Ngorongoro ni moja ya vivutio vikubwa sana nchini kutokana na maajabu yake</p>
 ```
+[![alt text](/grumpy-cat-small.png)]
+(http://wordpress.com/ "Title")
 
-hivyo utaona kwamba *element* ina sehemu kuu nne
+Ukichunguza kwa makini hiyo picha ya *element* hapo juu utaona kwamba *element* ina sehemu kuu nne
 1. *Opening tag* hii ni alama ya kuanzia kwenye mfano wetu wa *paragraph* hapo juu `<p>` ndio alama ya kuanzia. Kwa maneno mengine kila unapotaka kuandika aya lazima uanze na `<p>`. Kitu cha kuangalia ni kwamba kila alama ya kuanzia lazima iwe ndani ya `<>`
 2. *Closing tag* hii ni alama ya kufungia, kwenye mfano wetu wa *paragraph* hapo juu `</p>` ndio alama ya kufungia. Vile vile kila aya ni lazima imalizikie na `</p>`. Angalia kwa makini alama ya kufungia inatakiwa iwe ndani ya `</>`.
 3. *Content* aya ni maudhui *content* ya *element* kwa mfano wetu wa *paragraph* ni maelezo ya maandishi tu *'Ngorongoro ni moja ya vivutio vikubwa sana nchini kutokana na maajabu yake'*.
