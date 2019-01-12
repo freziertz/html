@@ -17,7 +17,7 @@ Lengo nataka ujue kutengeneza kurasa za mtandao. hivyo basi ukimaliza tu kusoma 
 # Mambo ya msingi ya HTML 
 *Hypertext Markup Language (HTML)* ni lugha ya komputa inayotumia *tag* kutengeza muundo wa kurasa za mtandao ili zilete maana na kufikisha ujumbe uliokusudiwa kwa ufanisi. 
 
-Unajua mitandao mingi inatumika kutoa habasi kama ilivyo magazeti, lakini mtandao ni zaidi ya gazeti maana unaweza kuweka picha, video, sauti na pia inatumika kwenye application mbali mbali kwenye kukusanya data na kuweza kutoa ripoti. kwa hivyo unaweza kurasa ya mtandao inaweza ikawa na kichwa cha habari *(heading)*, aya *(paragraph)*, orodha *(list)*, Picha, video, sauti, fomu, jedwali na mengineo.
+Unajua mitandao mingi inatumika kutoa habari mbali mbali kama ilivyo magazeti, lakini mtandao ni zaidi ya gazeti, maana inaweza kutoa habari kwa maandishi, picha, video, sauti na pia inatumika kwenye mifumo *application* mbali mbali kwenye kukusanya *data* na kuweza kuzikata na kutoa taarifa. Hivyo basi kurasa ya mtandao inaweza ikawa na vichwa vya habari *(heading)*, aya *(paragraph)*, orodha *(list)*, Picha, video, sauti, fomu za kukusanya taarifa, jedwali na mengineo.
 
 Hivyo kazi kubwa ya *HTML* ni kuweka hivyo vitu kwenye mpangiliao unaofaa ili *browser* iweze kuwasilisha kwa yule anayetembelea kurasa hiyo
 
@@ -49,11 +49,7 @@ Tuache maneno mengi twende kwenye kutengeneza kurasa *code*
 
 # Kurasa yako ya kwanza
 1. Fungua notepad kwenye komputa yako, fungua *file* jipya *copy code* hizi hapa chini kisha *paste* kwenye *file* lako kwa jina hili **index.html**
-
-
-
 ```html
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -82,7 +78,8 @@ The HTML document itself begins with <html> and ends with </html>.
 
 The visible part of the HTML document is between <body> and </body>.
 
-* `<!DOCTYPE html>` - Hii inakaa kwenye mstari wa kwanza kabisa kabla ya vitu vingine vyote, yenyewe inaonyesha kanuni zipi za *HTML* ulizotumia kutengeneza kurasa yako. Mfano hii yetu ni *HTML5*.
+* `<!DOCTYPE html>` - Hii inakaa kwenye mstari wa kwanza kabisa kabla ya vitu vingine vyote, yenyewe inaonyesha kanuni zipi za *HTML* ulizotumia kutengeneza kurasa yako. Mfano hii yetu ni *HTML5* ambayo ndio teknolojia mpya kabisa inayo tumika hivi sasa.
 
 * `<html></html>` —  `<html>` *element*. huu ni mzizi wa *element* zote *(root element)*. Kurasa zote za mtandao lazima zianze na  `<html>` na kumalizikia na `</html>`.
+* 
 
