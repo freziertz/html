@@ -75,7 +75,7 @@ Tuache maneno mengi twende kwenye kutengeneza kurasa *code*
 </html>
 ```
 
-Hapa, kuna vitu vifuatavyo vya msingi ambavyo vinaunda hii kurasa
+Hongera sana kwa kutengeneza kurasa yako ya kwanza lakini naona unashangaa sana kuhusu alama ambazo uzielewi ile baada ya mu mfupi utaelewa hivy vyote. Hapa, kuna vitu vifuatavyo vya msingi ambavyo vinaunda hii kurasa. uzuri ni kwamba kurasa zote duniani zina hivi vitu vya msingi.
 
 1. `<!DOCTYPE html>` - Hii inakaa kwenye mstari wa kwanza kabisa kabla ya vitu vingine vyote, yenyewe inaonyesha kanuni zipi za *HTML* ulizotumia kutengeneza kurasa yako. Mfano hii yetu ni *HTML5* ambayo ndio teknolojia mpya kabisa inayo tumika hivi sasa.
 
