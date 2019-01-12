@@ -90,12 +90,12 @@ The HTML document itself begins with <html> and ends with </html>.
 
 The visible part of the HTML document is between <body> and </body>.
 
-1 `<!DOCTYPE html>` - Hii inakaa kwenye mstari wa kwanza kabisa kabla ya vitu vingine vyote, yenyewe inaonyesha kanuni zipi za *HTML* ulizotumia kutengeneza kurasa yako. Mfano hii yetu ni *HTML5* ambayo ndio teknolojia mpya kabisa inayo tumika hivi sasa.
+1. `<!DOCTYPE html>` - Hii inakaa kwenye mstari wa kwanza kabisa kabla ya vitu vingine vyote, yenyewe inaonyesha kanuni zipi za *HTML* ulizotumia kutengeneza kurasa yako. Mfano hii yetu ni *HTML5* ambayo ndio teknolojia mpya kabisa inayo tumika hivi sasa.
 
-2 `<html></html>` —  `<html>` *element*. huu ni mzizi wa *element* zote *(root element)*. Kurasa zote za mtandao lazima zianze na  `<html>` na kumalizikia na `</html>`.
-3 `<head></head>`. Hii ni ` <head>` *element*. Hii ni sehemu ambayo unaitumia kuweka vitu vyote ambavyo sio sehemu ya maudhui yako. au vila ambavyo vinatakiwa kwenye kurasa yako lakini mtumiaji wa mtandao hatakiwi kiviona. Hivi ni vitu kama vile *keywords* ambavyo vinaitajika kwenye *search engine* kama google, *CSS* kwa ajili ya kulemba na kuipa mwonekano mzuri kurasa zako. hivi ni vitu ambavyo utajifunza baadae.
-3 `<meta charset="utf-8">`. Hii inahitajika ili kuzitaarifu *browser* za watumiaji wako kwamba kurasa yako inaelewa lugha karibu zote za duniani yaani zikiwemo kingereza, kifansa, kiswahili, kiyahudi, kichina na kiarabu. usipoiweka hii maandishi yako yanaweza yasionekane vizuri. anagalia uchawi wako hapa ni `charset="utf-8"`
-4 `<title></title>`. Hii `<title>` *element* inaweka jina la kurasa yako. jina ili linatumika kwenye *tab* na *bookmark/favorite*
-5 `<body></body>` Hii `<body>` *element*  ni sehemu ambayo unajimwaga. unaweka vitu vyote ambavyo unataka mtumiaji wako avione. vitu kama vile vichwa vya habari, *link*, aya, video, gemu, orodha, jedwali, sauti, picha na mengineyo. Kwenye waraka huu nitakueleza yote hayo unayawekaje
+2. `<html></html>` —  `<html>` *element*. huu ni mzizi wa *element* zote *(root element)*. Kurasa zote za mtandao lazima zianze na  `<html>` na kumalizikia na `</html>`.
+3. `<head></head>`. Hii ni ` <head>` *element*. Hii ni sehemu ambayo unaitumia kuweka vitu vyote ambavyo sio sehemu ya maudhui yako. au vila ambavyo vinatakiwa kwenye kurasa yako lakini mtumiaji wa mtandao hatakiwi kiviona. Hivi ni vitu kama vile *keywords* ambavyo vinaitajika kwenye *search engine* kama google, *CSS* kwa ajili ya kulemba na kuipa mwonekano mzuri kurasa zako. hivi ni vitu ambavyo utajifunza baadae.
+4. `<meta charset="utf-8">`. Hii inahitajika ili kuzitaarifu *browser* za watumiaji wako kwamba kurasa yako inaelewa lugha karibu zote za duniani yaani zikiwemo kingereza, kifansa, kiswahili, kiyahudi, kichina na kiarabu. usipoiweka hii maandishi yako yanaweza yasionekane vizuri. anagalia uchawi wako hapa ni `charset="utf-8"`
+5. `<title></title>`. Hii `<title>` *element* inaweka jina la kurasa yako. jina ili linatumika kwenye *tab* na *bookmark/favorite*
+6. `<body></body>` Hii `<body>` *element*  ni sehemu ambayo unajimwaga. unaweka vitu vyote ambavyo unataka mtumiaji wako avione. vitu kama vile vichwa vya habari, *link*, aya, video, gemu, orodha, jedwali, sauti, picha na mengineyo. Kwenye waraka huu nitakueleza yote hayo unayawekaje
 
 
