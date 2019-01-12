@@ -1,6 +1,6 @@
 # Anza kujifunza mtandao
 
-## Utangulizi
+# Utangulizi
 
 Ndugu yangu bila kukuchosha nitakupa maelezo mafungu ya vitu vya msingi ampavyo inakupasa ujue kabla sijakuonyesha jinsi ya kutengeneza kurasa za mtandao
 
