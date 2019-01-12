@@ -25,6 +25,26 @@ Hivyo basi *HTML* ndio lugha mama kwenye mtandao, yaani Duniani hakuna mtandao w
 
 Kitu cha msingi ni kwamba *HTML* sio programing languaje ni markup language. HTML inatumia alama kuzipa maana na mantiki sehemu za kurasa. hii inawezesha sehemu fulani ya kurasa kuonekana tofauti na nyingine.
 
+# HTML Element
+*HTML element* ni alama ambazo zinatumika kueleza na kupanga maudhui yako. Mara nyingi zinakua zimefungia maudhui yako yaani kunakua na alama ya kuanzia *start tag* na alama ya kufungia *end tag*
+
+kwa mfano ukitaka kutengeneza kicha cha habari kwenye *html* unaaandika hivi
+
+```html
+<h1>Maajabu Ngorongoro<h1>
+```
+na aya *paragraph* unaandika hivi
+
+```html
+<p>Ngorongoro ni moja ya vivutio vikubwa sana nchini kutokana na maajabu yake</p>
+```
+
+hivyo utaona kwamba *element* ina sehemu kuu nne
+1. *Opening tag* hii ni alama ya kuanzia kwenye mfano wetu wa *paragraph* hapo juu `<p>` ndio alama ya kuanzia. Kwa maneno mengine kila unapotaka kuandika aya lazima uanze na `<p>`. Kitu cha kuangalia ni kwamba kila alama ya kuanzia lazima iwe ndani ya `<>`
+2. *closing tag* hii ni alama ya kufungia, kwenye mfano wetu wa *paragraph* hapo juu </p>. Vile vile kila aya ni lazima imalizikie na `</p>`. Angalia kwa makini alama ya kufungia inatakiwa iwe ndani ya `</>`.
+3. *Content* Aya ni maudhui *content* ya *element* kwa mfano wetu wa *paragraph* ni maelezo ya maandishi tu *'Ngorongoro ni moja ya vivutio vikubwa sana nchini kutokana na maajabu yake'*.
+4. *The element* alama ya kuanzia, alama ya kufungia pamoja na maelezo yaliyo ndani yako ndio yanafanya element
+
 Tuache maneno mengi twende kwenye kutengeneza kurasa *code* 
 
 # Kurasa yako ya kwanza
@@ -54,7 +74,15 @@ Tuache maneno mengi twende kwenye kutengeneza kurasa *code*
 ```
 Hapa, kuna vitu vifuatavyo vya msingi ambavyo vinaunda hii kurasa
 
-* `<!DOCTYPE html>` - Hii inakaa kwenye mstari wa kwanza kabisa kabla ya vitu vingine, yenyewe inaonyesha kanuni zipi za *HTML* ulizotumia kutengeneza kurasa yako. Mfano hii yetu ni *HTML5*
+*HTML* sio programming language ni markup langauge ni lugha 
 
-* `<html></html>` —  `<html>` *element*. Hii This *element* inafungia au inazungushia kurasa nzima na inajulikana kama *root element* yaani mzizi wa element zote.
+All HTML documents must start with a document type declaration: <!DOCTYPE html>.
+
+The HTML document itself begins with <html> and ends with </html>.
+
+The visible part of the HTML document is between <body> and </body>.
+
+* `<!DOCTYPE html>` - Hii inakaa kwenye mstari wa kwanza kabisa kabla ya vitu vingine vyote, yenyewe inaonyesha kanuni zipi za *HTML* ulizotumia kutengeneza kurasa yako. Mfano hii yetu ni *HTML5*.
+
+* `<html></html>` —  `<html>` *element*. huu ni mzizi wa *element* zote *(root element)*. Kurasa zote za mtandao lazima zianze na  `<html>` na kumalizikia na `</html>`.
 
