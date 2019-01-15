@@ -175,7 +175,14 @@ unaweza ukatambulisha nani ametengeneza hiyo kurasa kwa kuweka mwandishi *author
 ### refresh
 Hii inawezeha kurasa kuanza upya yenyewe *refresh* kila baada ya sekunde kadhaa. kwa mfano mara baada ya kurasa yako ku load kwa mara ya kwanza itakua ina anza upya kila baada ya sekunde ishirini. 
 
-`<meta http-equiv="refresh" content="20">`
+```html
+<meta http-equiv="refresh" content="20">
+```
+
+### keywords
+```html
+<meta name="keywords" content="HTML, CSS, XML, JavaScript">
+```
 
 
 
