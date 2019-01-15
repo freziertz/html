@@ -88,7 +88,7 @@ itakua inaonekana hivi
         body {background-color: powderblue;}
         h1 {color: red;}
         p {color: blue;}
-</style>
+    </style>
   </head>
   <body>
     <h1>Hiki ndio kichwa cha hapbari</>
@@ -98,6 +98,38 @@ itakua inaonekana hivi
 ```
 
 ## link
+`<link>` *element* inatumika kuweka nakishi *(style sheet)* ya nje
+
+```html
+<link rel="stylesheet" href="stylesheet_ya_nje.css">
+```
+**stylesheet_ya_nje.css**
+```css
+        body {background-color: powderblue;}
+        h1 {color: red;}
+        p {color: blue;}
+
+```
+
+Tengeneza nakishi ya nje kisha iunganishe na kurasa yako
+
+
+Itaonekana kama hivi
+**index.html** 
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+    <meta charset="utf-8">
+    <title>Hii ni sehemu ya title yako</title>
+    <link rel="stylesheet" href="stylesheet_ya_nje.css">
+  </head>
+  <body>
+    <h1>Hiki ndio kichwa cha hapbari</>
+    <p>Hii ndio aya yetu. Aya inaweka kwa kutumia tag ya p ikimaanisha <strong>paragraph</strong></p>
+  </body>
+</html>
+```
 
 ## script
 
