@@ -60,10 +60,21 @@ Hii ina maana ukitumia hiyo kurasa yako itaweza kudisplay herufi au neno kutoka 
 Jaribu kuweka maneno ya kichina kwenye kurasa yako halafu kisha badilisha weka latini character ser `ISO-8859-1` 
 
 mfano wa wa kiarabu
-`<p>Japanese example: العربية السعودية </p>`
+`<p>Mfano Saudi Arabia kwa kiarabu: العربية السعودية </p>`
 
 
-ila kwa dunia ya leo kuna baadhi ya browser zinabadilisha juu kwa juu hata kama umekose zinyewe zitadisplay vizuri.
+ila kwa dunia ya leo kuna baadhi ya browser zinabadilisha *character encoding* juu kwa juu hata kama umekose zinyewe zitadisplay vizuri.
+
+`<meta>` *element* nyingi zinaudwa na *name* na *content attributes*
+
+*name* inawakilisha aina gani ya *meta element*. Aina gani ya taarifa inayo
+*content* inawakilisha taarifa yenyewe.
+
+### Author
+unaweza ukatambulisha nani ametengeneza hiyo kurasa kwa kuweka mwandishi *author* kwenye *<meta>* kama ifuatavyo
+```html
+<meta name="author" content="Chris Mills">
+```
 
 
 
