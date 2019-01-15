@@ -103,6 +103,8 @@ itakua inaonekana hivi
 ```html
 <link rel="stylesheet" href="stylesheet_ya_nje.css">
 ```
+Tengeneza nakishi ya nje kisha iunganishe na kurasa yako
+
 **stylesheet_ya_nje.css**
 ```css
         body {background-color: powderblue;}
@@ -110,10 +112,6 @@ itakua inaonekana hivi
         p {color: blue;}
 
 ```
-
-Tengeneza nakishi ya nje kisha iunganishe na kurasa yako
-
-
 Itaonekana kama hivi
 **index.html** 
 ```html
