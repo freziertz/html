@@ -165,12 +165,17 @@ ila kwa dunia ya leo kuna baadhi ya browser zinabadilisha *character encoding* j
 
 ### author
 unaweza ukatambulisha nani ametengeneza hiyo kurasa kwa kuweka mwandishi *author* kwenye *<meta>* kama ifuatavyo
+
 ```html
 <meta name="author" content="Yahaya Frezier">
 ```
 
 ### description
 *description* haya ni maelezo mafupi yenye maneno muhimu *keywords* kuhusu kurasa yako. Haya maelezo ni muhimu sana maana search engine yanatumia ili kuipaisha kurasa yako wakati watu wakitafuta kurasa zenye maudhui yanayo fanana na yako. hii kitaalamu inaitwa *Search Engine Optimization (SEO)*
+
+```html
+<meta name="description" content="Mafunzo ya HTML kwa lugha ya kiswahili">
+```
 
 ### refresh
 Hii inawezeha kurasa kuanza upya yenyewe *refresh* kila baada ya sekunde kadhaa. kwa mfano mara baada ya kurasa yako ku load kwa mara ya kwanza itakua ina anza upya kila baada ya sekunde ishirini. 
@@ -181,7 +186,7 @@ Hii inawezeha kurasa kuanza upya yenyewe *refresh* kila baada ya sekunde kadhaa.
 
 ### keywords
 ```html
-<meta name="keywords" content="HTML, CSS, XML, JavaScript">
+<meta name="keywords" content="HTML, CSS, JavaScript">
 ```
 
 
