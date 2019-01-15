@@ -95,6 +95,7 @@ itakua inaonekana hivi
     <p>Hii ndio aya yetu. Aya inaweka kwa kutumia tag ya p ikimaanisha <strong>paragraph</strong></p>
   </body>
 </html>
+```
 
 ## link
 
