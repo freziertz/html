@@ -73,7 +73,7 @@ ila kwa dunia ya leo kuna baadhi ya browser zinabadilisha *character encoding* j
 ### Author
 unaweza ukatambulisha nani ametengeneza hiyo kurasa kwa kuweka mwandishi *author* kwenye *<meta>* kama ifuatavyo
 ```html
-<meta name="author" content="Chris Mills">
+<meta name="author" content="Yahaya Frezier">
 ```
 
 
