@@ -172,6 +172,11 @@ unaweza ukatambulisha nani ametengeneza hiyo kurasa kwa kuweka mwandishi *author
 ### description
 *description* haya ni maelezo mafupi yenye maneno muhimu *keywords* kuhusu kurasa yako. Haya maelezo ni muhimu sana maana search engine yanatumia ili kuipaisha kurasa yako wakati watu wakitafuta kurasa zenye maudhui yanayo fanana na yako. hii kitaalamu inaitwa *Search Engine Optimization (SEO)*
 
+### refresh
+Hii inawezeha kurasa kuanza upya yenyewe *refresh* kila baada ya sekunde kadhaa. kwa mfano mara baada ya kurasa yako ku load kwa mara ya kwanza itakua ina anza upya kila baada ya sekunde ishirini. 
+
+`<meta http-equiv="refresh" content="20">`
+
 
 
 
