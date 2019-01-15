@@ -70,11 +70,13 @@ ila kwa dunia ya leo kuna baadhi ya browser zinabadilisha *character encoding* j
 *name* inawakilisha aina gani ya *meta element*. Aina gani ya taarifa inayo
 *content* inawakilisha taarifa yenyewe.
 
-### Author
+### author
 unaweza ukatambulisha nani ametengeneza hiyo kurasa kwa kuweka mwandishi *author* kwenye *<meta>* kama ifuatavyo
 ```html
 <meta name="author" content="Yahaya Frezier">
 ```
+
+### description
 
 
 
