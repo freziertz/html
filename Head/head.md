@@ -128,6 +128,22 @@ Itaonekana kama hivi
   </body>
 </html>
 ```
+## favicon
+Hiki ni kifupi cha *favorites icon* kutokana na vile inavyotumika kwenye *favorites* au orodha ya *bookmarks* kwenye *browsers*
+
+kwa kawaida favicons ni picha ndogo inayo onekana kwenye *tab* ya *browser* kwenye kila kurasa iliyo funguliwa na pia inaonekana kwenye orodah ya *bookmarks*
+
+Ukubwa wake ni *16-pixel square*
+
+
+### Jinsi ya kuweka favicon
+1. Weka *favicon* yako sehemu uliyo weka kurasa yako ya *index*. Iweke kwenye *format* ya *.ico* ingawa *format* nyingine kama *.gif* and *.png* zinakubalika ila sio kwenye browser zote, Ila *.ico* inatambulika kwenye *browser* zote.
+
+2. Weka hii link kwenye sehemu ya `<head>` ya kurasa yako ili kuweza kuinganisha *favicon* yako na kurasa yako.
+
+```html
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+```
 
 ## script
 `<script>` Hii inatumika kuweka *JavaScripts* kwenye kurasa yako. utajifunza zaidi kuhusiana na *JavaScripts* kwenye somo lingine.
@@ -242,6 +258,66 @@ Hii inawezeha kurasa kuanza upya yenyewe *refresh* kila baada ya sekunde kadhaa.
 ```html
 <meta name="keywords" content="HTML, CSS, JavaScript">
 ```
+
+### viewport
+
+*viewport* ni sehemu ile ya kurasa yako inayo onekana kwa mtumiaji. Ukubwa wake hutofautiana kulingana na kifaa kinachotumika, inakua ndogo kwenye simu janja, inakuwa ya wastani kwenye *tablet* na inakuwa kubwa kwenye komputa.
+
+`<meta>` *viewport element* kazi yake ni kutoa maelezo ya vipimo na kiwango kwa kurasa yako kwa browser ili iweze kuonekana kwa uzuri kulingana na ukubwa wa screen ya kifaa cha mtumiaji.
+
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
+
+`width=device-width`  sehemu hii inaweka kipimo cha upana (*width*) wa kurasa yako kulingana na upana wa kifaa cha mtumiaji.
+
+`initial-scale=1.0` sehemu hii inaweka kipimo cha kuanzia kukuza (*zoom level*) pale kurasa yako inapo funguka kwenye *browser* ya mtumiaji kwa mara ya kwanza.
+
+## language
+Hii ni muhimu kuweka, maana inatumiwa na *search engine* pamoja na *screen reader* kwa wale walemavu wa macho.
+Uwekaji wake ni kuongeza lang attribute kwenye html tag kama inavyo onekana hapa chini
+
+```html
+<html lang="sw">
+```
+
+Kwa ujumla kurasa yetu sasa inaonekana kama ifuatavyo
+**index.html**
+```html
+<!DOCTYPE html>
+<html lang="sw">
+<head>
+  <title>Jina la Kurasa yangu</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="refresh" content="20">
+  <meta name="description" content="Mafunzo ya HTML kwa lugha ya kiswahili">
+  <meta name="keywords" content="HTML, CSS, JavaScript">
+  <meta name="author" content="Yahaya Frezier">
+  <base href="https://www.brainy.com/images/" target="_blank">
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="stylesheet_ya_nje.css">
+   <script src="main.js"></script>
+</head>
+<body>
+
+<img src="html5.gif">
+<p>Kwa kuwa tumeshaiambia kurasa yetu shina la URL yetu, *browser* itaangalia *image* "html5.gif" kwenye "https://www.brainy.com/images/html5.gif"</p>
+
+<p><a href="https://www.brainy.com">Brainy link</a></p>
+<p>The link hapo juu itafunguka kwenye *window* nyingine. Hii inatokana na ukweli kwamba tulishapanga ifungekeje kwenye base yetu. Kumbuka tulipanga "_blank" maana yake ifungue kurasa nyingine mpya.</p>
+
+</body>
+</html>
+```
+
+
+
+
+
+
+
+
 
 
 
