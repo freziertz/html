@@ -1,1 +1,6 @@
-One of HTML's main jobs is to give text structure and meaning (also known as semantics) so that a browser can display it correctly. This article explains the way HTML can be used to structure a page of text by adding headings and paragraphs, emphasizing words, creating lists, and more.
+# Mambo ya msingi ya *HTML text*
+
+Moja ya kazi kubwa ya HTML ni kuyapa muundo na maana maandishi ili browser iweze kuyawasilisha kwa usahihi. Leo nitakueleza vile ambavyo HTML inaweza kutumika kuzipa muundo maandishi kwa kuweka vichwa vya habari, aya, kuyapa msisitizo maneno, kutengeneza orodha na mengine mengi.
+
+# Nini unatakiwa kuwa unajua 
+Unatakiwa kutu
