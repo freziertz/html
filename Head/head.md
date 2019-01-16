@@ -280,6 +280,8 @@ Uwekaji wake ni kuongeza lang attribute kwenye html tag kama inavyo onekana hapa
 ```html
 <html lang="sw">
 ```
+languahe code
+https://www.w3schools.com/tags/ref_language_codes.asp
 
 Kwa ujumla kurasa yetu sasa inaonekana kama ifuatavyo
 **index.html**
