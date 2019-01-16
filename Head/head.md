@@ -123,15 +123,69 @@ Itaonekana kama hivi
     <link rel="stylesheet" href="stylesheet_ya_nje.css">
   </head>
   <body>
-    <h1>Hiki ndio kichwa cha hapbari</>
+    <h1>Hiki ndio kichwa cha habari</>
     <p>Hii ndio aya yetu. Aya inaweka kwa kutumia tag ya p ikimaanisha <strong>paragraph</strong></p>
   </body>
 </html>
 ```
 
 ## script
+`<script>` Hii inatumika kuweka *JavaScripts* kwenye kurasa yako. utajifunza zaidi kuhusiana na *JavaScripts* kwenye somo lingine.
+mfano wetu hapa chini unaandika "Karibu Mtandaoni!" kwenye HTML element yenye id="mafano". Kwa sasa usijali vitu ambavyo uvielewi utavielewa pole pole.
+
+**main.js**
+```js
+<script>
+function functionYangu {
+  document.getElementById("mfano").innerHTML = "Karibu Mtandaoni!";
+}
+</script>
+
+```
+**index.html**
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+    <meta charset="utf-8">
+    <title>Hii ni sehemu ya title yako</title>
+    <link rel="stylesheet" href="stylesheet_ya_nje.css">
+  </head>
+  <body>
+    <h1 id="mfano">Hiki ndio kichwa cha habari</>    
+    <p>Hii ndio aya yetu. Aya inaweka kwa kutumia tag ya p ikimaanisha <strong>paragraph</strong></p>
+  </body>
+</html>
+```
 
 ## base
+The <base> element specifies the base URL and base target for all relative URLs in a page:
+`<base>` hii inatambulisha shina la *URL* na pia *link* ifungukaje kama hauja sema kwenye *html code* zako
+
+```html
+<base href="https://www.w3schools.com/images/" target="_blank">
+```
+**mfano**
+
+**index.html**
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Jina la Kurasa yangu</title>
+  <base href="https://www.brainy.com/images/" target="_blank">
+</head>
+<body>
+
+<img src="html5.gif">
+<p>Kwa kuwa tumeshaiambia kurasa yetu shina la URL yetu, *browser* itaangalia *image* "html5.gif" kwenye "https://www.brainy.com/images/html5.gif"</p>
+
+<p><a href="https://www.brainy.com">Brainy link</a></p>
+<p>The link hapo juu itafunguka kwenye *window* nyingine. Hii inatokana na ukweli kwamba tulishapanga ifungekeje kwenye base yetu. Kumbuka tulipanga "_blank" maana yake ifungue kurasa nyingine mpya.</p>
+
+</body>
+</html>
+```
 
 ## Metadata: `<meta>` *element* ni ya nini?
 *Metadata* ni *data* ambazo zinatoa taarifa zaidi kuhusu *data*
