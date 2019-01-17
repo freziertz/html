@@ -18,11 +18,21 @@ Kicha cha habari kinatakiwa kiwe ndani ya heading element
 Kuna *heading element* sita kwenye *HTML* ambazo ni `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`na `<h6>` kila moja inawakilisha aina tofauti ya kichwa cha habari.
 
 ```html
-`<h1>Hiki ni kichwa cha habari kikubwa kabisa.</h1>`
-`<h2>Hiki ni kichwa cha habari kidogo.</h2>`
-`<h3>Hiki ni kichwa cha habari kidogo ukilinganisah na kichwa cha habari cha h2.</h3>`
-`<h4>Hiki ni kichwa cha habari kidogo ukilinganisah na kichwa cha habari cha h3.</h4>`
-`<h5>Hiki ni kichwa cha habari kidogo ukilinganisah na kichwa cha habari cha h4.</h5>`
-`<h3>Hiki ni kichwa cha habari kidogo kuliko sana kuliko vyote.</h3>`
+<!DOCTYPE html>
+<html lang="sw">
+  <head>
+    <title>Aina za vichwa vya habari vya HTML<title>
+     <meta name="author" content="Yahaya Frezier">
+     <meta name="description" content="Aina za vicha vya habari">
+  </head>
+  <body>
+  <h1>Hiki ni kichwa cha habari kikubwa kabisa.</h1>
+  <h2>Hiki ni kichwa cha habari kidogo.</h2>
+  <h3>Hiki ni kichwa cha habari kidogo ukilinganisah na kichwa cha habari cha h2.</h3>
+  <h4>Hiki ni kichwa cha habari kidogo ukilinganisah na kichwa cha habari cha h3.</h4>
+  <h5>Hiki ni kichwa cha habari kidogo ukilinganisah na kichwa cha habari cha h4.</h5>
+  <h3>Hiki ni kichwa cha habari kidogo kuliko sana kuliko vyote.</h3>
+  </body>
+</html>
 ```
 
