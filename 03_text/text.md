@@ -12,12 +12,17 @@ Kujifunza jinsi gani unaweza kutumia *HTML text element*, kuzipa muundo na maana
 
 ## Headings - Vichwa vya habari
 Kicha cha habari kinatakiwa kiwe ndani ya heading element 
-`<h1>Mimi ni kichwa cha habari.</h1>`
+```html
+<h1>Mimi ni kichwa cha habari.</h1>
+```
 Kuna *heading element* sita kwenye *HTML* ambazo ni `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`na `<h6>` kila moja inawakilisha aina tofauti ya kichwa cha habari.
+
+```html
 `<h1>Hiki ni kichwa cha habari kikubwa kabisa.</h1>`
 `<h2>Hiki ni kichwa cha habari kidogo.</h2>`
 `<h3>Hiki ni kichwa cha habari kidogo ukilinganisah na kichwa cha habari cha h2.</h3>`
 `<h4>Hiki ni kichwa cha habari kidogo ukilinganisah na kichwa cha habari cha h3.</h4>`
 `<h5>Hiki ni kichwa cha habari kidogo ukilinganisah na kichwa cha habari cha h4.</h5>`
 `<h3>Hiki ni kichwa cha habari kidogo kuliko sana kuliko vyote.</h3>`
+```
 
