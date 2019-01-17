@@ -1,7 +1,11 @@
 
 # Vidokezo vya kuandika kurasa ya HTML inayo pakua (*loading*) kwa haraka
 
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Author_fast-loading_HTML_pages
+
 Videkezo hivi vimetokana na ujuzi wa kawaida na majaribio
+
+
 
 
 An optimized web page not only provides for a more responsive site for your visitors but also reduces the load on your web servers and Internet connection. This can be crucial for high volume sites or sites which have a spike in traffic due to unusual circumstances such as breaking news stories.
