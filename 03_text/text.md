@@ -11,7 +11,7 @@ paragraphs, headings, lists, emphasis, and quotations
 Kujifunza jinsi gani unaweza kutumia *HTML text element*, kuzipa muundo na maana sehemu mbalimbali za kura yako kama vile vichwa vya habari (*headings*), aya (*paragraphs*), orodha (*lists*), nukuhu (*quotations*) na msisitizo (*emphasis*).
 
 ## Headings - Vichwa vya habari
-Kicha cha habari kinatakiwa kiwe ndani ya heading element 
+Kicha cha habari kinatakiwa kiwe ndani ya h element 
 ```html
 <h1>Mimi ni kichwa cha habari.</h1>
 ```
@@ -35,4 +35,24 @@ Kuna *heading element* sita kwenye *HTML* ambazo ni `<h1>`, `<h2>`, `<h3>`, `<h4
   </body>
 </html>
 ```
+vidokezo vya kutumia vichwa vya habari
+1. Ni vyema kutumia `<h1>` moja kwenye kurasa yako, kisha chini yake ukatumia `<h2>` na chaini yake tena ukatumia `<h3>`.
+2. Hakikisha unatumia vichwa vya habari kwenye mpangilio mzuri. Usichanganyecahnganye kwa mfano usiweke `<h1>` chini ya `<h2>` au `<h3>` maana utaichanganya *search engine* na kurasa yako haitakua na matokeo mazuri.
+
+## paragraph - Aya
+Kwenye HTML aya ni lazima kiwe ndani ya p element
+```html
+<p>kwenye *html* hii ni haya iliyo kamilika.</p>
+```
+
+Kitu cha msingi cha kukumbuka kwenye HTML huwezi kubadilisha muonekano au muudo kwa kuongeza space au kuruka mstari, ua kutumia enter au tab maana browser inaondoa space yeyote itakayo ongezeka kati ya neno na neno. Hizi hapa paragraph zote mbili zitaonyesha matekeo yanayofanana kwenye browser yako.
+
+```html
+<p>kwenye *html* hii ni haya iliyo kamilika.</p>
+
+<p>kwenye     *html*   hii 
+  ni haya iliyo
+  kamilika.</p>
+```
+
 
