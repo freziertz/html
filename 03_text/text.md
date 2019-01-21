@@ -127,8 +127,8 @@ Kuna aina mbili za list
 
 ### Orodha isiyofata mpangilio *unordered list*
 Hii ni orodha ambayo mpangilio wa vitu sio muhimu. Mfano wake ni kama orodha ya bidhaa, 
--Mkate
--Kachumbali
--Siagi
--Chai ya maziwa
--Supu
+* Mkate
+* Kachumbali
+* Siagi
+* Chai ya maziwa
+* Supu ya kuku
