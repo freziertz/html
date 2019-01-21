@@ -127,8 +127,37 @@ Kuna aina mbili za list
 
 ### Orodha isiyofata mpangilio *unordered list*
 Hii ni orodha ambayo mpangilio wa vitu sio muhimu. Mfano wake ni kama orodha ya bidhaa, 
-* Mkate
-* Kachumbali
-* Siagi
-* Chai ya maziwa
-* Supu ya kuku
+* Swala
+* Chui
+* Simba
+* Faru
+* Tembo
+
+Kutengeneza orodha kama hiyo unahitaji  iwe ndani ya `<ul></ul>` ambazo zina wakilisha *unordered list* kicha ndani ya hizo ndio unaweka orodha yako *list* kwa kutumia *HTML element* `<li></li>`
+
+**index.html**
+```html
+<!DOCTYPE html>
+<html lang="sw">
+  <head>
+    <title>Serengeti<title>
+     <meta name="author" content="Yahaya Frezier">
+     <meta name="description" content="Wannyama wanaopatika serengeti">
+  </head>
+  <body>
+
+<h1>Wanyama wanaopatika serengeti</h1>
+
+<p>Baadhi ya wanyama wanao patikana kwenye mbuga ya senerengiti ni hawa</p>
+
+<ul>
+  <li>Swala</li>
+  <li>Chui</li>
+  <li>Simba</li>
+  <li>Faru</li>
+  <li>Tembo</li>
+</ul>
+</body>
+</html>
+ 
+
