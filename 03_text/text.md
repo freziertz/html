@@ -55,6 +55,19 @@ Kitu cha msingi cha kukumbuka kwenye HTML huwezi kubadilisha muonekano au muudo 
   kamilika.</p>
 ```
 
+## Kwa nini tunahitaji muundo (structure)
+Kujibu hilo ngoja tuangalie mfano hapa chini ambao hakuna *markup* yeyote iliyowekwa. Utaona inavyoonekana vipaya kwenye *screen* yako. 
+Hii ni kwasababu hakuna *HTML element* yeyote ya kuipa muundo kurasa yako. Maana yake nini *browser* haijui kichwa cha habari ni kipi, aya ni ipi, orodha ni ipi? vilevile 
+1. mtumiajia anatumia muda mchache sana kutafuta taarifa anazohitaji sana sana anasoma vichwa vy habari kama haoni kicha cha habari kama haoni kitu kinachomfaa ndani ya sekunde chache anaondoka mara moja.
+2. *Search engine* zina pitia kurasa zako na kuhifadhi taarifa za muhimu. hivyo vicha vya habari ni muhimu sana kwa *search engine* kwenye kuiweka juu kurasa yako. Bila vichwa vya habari itakua ngumu sana kurasa yako kuonekana kupitia *search engine*
+3. Kwa watu wenye ulemavu wa macho wanatumia programu fulani inaitwa *screen reader* yenyewe inasoma vichwa vya habari kwa sauti kabla ya mtumiaji kuchagua habari anayo itaka. Kama hakuna vichwa vya habari itabidi isome neno kwa neno kuanzia mwanzo mpaka mwisho wa kurasa yako. Itakuaje ngumu?
+4. *JavaScript* na *CSS* zinatumia *HTML* tag na *HTML attributes* kuongeza nakishi na kuipa uhai kurasa yako bila hizo *tag*. Huwezi ukatumia zana zingine kama *Javascript* na *CSS*
+
+Kwa hivyo basi tunahitaji kuzipa kurasa zetu muundo kwa kweka *HTML tag*
+
+## Kwa nini tunahitaji maana (Semantics)
+Tunahitaji maana ili kuipa uwezo *browser* kujua maana ya *tag* husika. Kwa mfano `<h1>` ni kichwa cha habari kikubwa hivyo basi browser itayafanya maandishi yake yawe makubwa na yalio kolea zaidi kuliko maandishi mengine kwenye kurasa yako. Ingawa kuna njia nyingine ya kufanya maandishi yawa makubwa na kukorea kwa kutumia *CSS*. Lakinia ukitumia `<h1>` maana yake ni tofauti kwa maana uzito wa wake ni mubwa mno hta seach engine na screen reader zinaelewa kwamba kwenye hii kurasa kichwa cha habari kilichobeba ujumbe wa hii kurahi ni kile kilicho ndani `<h1></h1>`
+
 **index.html**
 
 ```html
@@ -103,3 +116,19 @@ Kitu cha msingi cha kukumbuka kwenye HTML huwezi kubadilisha muonekano au muudo 
 </html>
 
 ```
+
+## orodha (*Lists*)
+Mara nyingi tunatumia orodha pale tunapo taja Orodha ya vitu vya kununua, kwenye maswala ya ujenzi, kwenye biashara, kwenye  maelekezo na sehemu zingine nyingi. Na kwenye mtandao pia orodha inatumika sana.
+
+Kuna aina mbili za list
+1. Orodha isiyofuata mpangilio *unordered list*
+2. Orodha inayofuata mpangilio *oredered list*
+3. Orodha ndani ya orodha nyingine *nested list*
+
+### Orodha isiyofata mpangilio *unordered list*
+Hii ni orodha ambayo mpangilio wa vitu sio muhimu. Mfano wake ni kama orodha ya bidhaa, 
+-Mkate
+-Kachumbali
+-Siagi
+-Chai ya maziwa
+-Supu
