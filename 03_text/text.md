@@ -161,5 +161,12 @@ Kutengeneza orodha kama hiyo unahitaji  iwe ndani ya `<ul></ul>` ambazo zina wak
 </html>
 ````
 ### Orodha inayofuata mpangilio *ordered*
+Kwa mfano angalia maelekezo yafuatayo. Ili ufike mbuga nzuri ya serengeti unatakiwa maelekezo yafuatayo
+* Unatakiwa utoke hapa mpaka arusha 
+* Pale arusha kuna ofisi za TANAPA unatakiwa ukate ticket na kulipia hoteli 
+* Kisha unatakiwa uchukue usafiri ama wa kokodi au wa binafsi mpaka serengeti getini
+* Hapo utaonyesha ticket yako na kukaguliwa kisha utaongozwa mpaka kwenye hoteli uliyolipia
+* Hotelini utapewa chumba na mtu wa kukuongoza siku zote utakazokua mbugani
+
  
 
