@@ -168,5 +168,32 @@ Kwa mfano angalia maelekezo yafuatayo. Ili ufike mbuga nzuri ya serengeti unatak
 * Hapo utaonyesha ticket yako na kukaguliwa kisha utaongozwa mpaka kwenye hoteli uliyolipia
 * Hotelini utapewa chumba na mtu wa kukuongoza siku zote utakazokua mbugani
 
+Ili kuiweka kwenye orodha iliyo na mpangilio tunabadilisha kidogo ule mfano wetu
+**index.html**
+```html
+<!DOCTYPE html>
+<html lang="sw">
+  <head>
+    <title>Serengeti<title>
+     <meta name="author" content="Yahaya Frezier">
+     <meta name="description" content="Wannyama wanaopatika serengeti">
+  </head>
+  <body>
+
+<h1>Wanyama wanaopatika serengeti</h1>
+
+<p>Baadhi ya wanyama wanao patikana kwenye mbuga ya senerengiti ni hawa</p>
+
+<ol>
+  <li>Swala</li>
+  <li>Chui</li>
+  <li>Simba</li>
+  <li>Faru</li>
+  <li>Tembo</li>
+</ol>
+</body>
+</html>
+````
+
  
 
