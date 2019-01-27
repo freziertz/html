@@ -185,11 +185,11 @@ Ili kuiweka kwenye orodha iliyo na mpangilio tunabadilisha kidogo ule mfano wetu
 <p>Baadhi ya wanyama wanao patikana kwenye mbuga ya senerengiti ni hawa</p>
 
 <ol>
-  <li>Swala</li>
-  <li>Chui</li>
-  <li>Simba</li>
-  <li>Faru</li>
-  <li>Tembo</li>
+ <li>Unatakiwa utoke hapa mpaka arusha</li> 
+ <li>Pale arusha kuna ofisi za TANAPA unatakiwa ukate ticket na kulipia hoteli </li> 
+ <li>Kisha unatakiwa uchukue usafiri ama wa kokodi au wa binafsi mpaka serengeti getini </li> 
+ <li>Hapo utaonyesha ticket yako na kukaguliwa kisha utaongozwa mpaka kwenye hoteli uliyolipia </li> 
+ <li>Hotelini utapewa chumba na mtu wa kukuongoza siku zote utakazokua mbugani </li> 
 </ol>
 </body>
 </html>
