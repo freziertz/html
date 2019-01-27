@@ -162,11 +162,11 @@ Kutengeneza orodha kama hiyo unahitaji  iwe ndani ya `<ul></ul>` ambazo zina wak
 ````
 ### Orodha inayofuata mpangilio *ordered*
 Kwa mfano angalia maelekezo yafuatayo. Ili ufike mbuga nzuri ya serengeti unatakiwa maelekezo yafuatayo
-* Unatakiwa utoke hapa mpaka arusha 
-* Pale arusha kuna ofisi za TANAPA unatakiwa ukate ticket na kulipia hoteli 
-* Kisha unatakiwa uchukue usafiri ama wa kokodi au wa binafsi mpaka serengeti getini
-* Hapo utaonyesha ticket yako na kukaguliwa kisha utaongozwa mpaka kwenye hoteli uliyolipia
-* Hotelini utapewa chumba na mtu wa kukuongoza siku zote utakazokua mbugani
+* Nenda mpaka mwisho wa hii barabara 
+* Kish kata kulia 
+* Nenda moja kwa moja mpaka utakuta kibanda cha mkaa
+* Baada ya kibanda cha mkaa utakuta kuna barabara mbili kata kulia
+* Ukianda mbele kidogo tu utaona jengo la ghorofa mbili hapa ndio kuna ofisi za utalii
 
 Ili kuiweka kwenye orodha iliyo na mpangilio tunabadilisha kidogo ule mfano wetu
 **index.html**
@@ -185,15 +185,89 @@ Ili kuiweka kwenye orodha iliyo na mpangilio tunabadilisha kidogo ule mfano wetu
 <p>Baadhi ya wanyama wanao patikana kwenye mbuga ya senerengiti ni hawa</p>
 
 <ol>
- <li>Unatakiwa utoke hapa mpaka arusha</li> 
- <li>Pale arusha kuna ofisi za TANAPA unatakiwa ukate ticket na kulipia hoteli </li> 
- <li>Kisha unatakiwa uchukue usafiri ama wa kokodi au wa binafsi mpaka serengeti getini </li> 
- <li>Hapo utaonyesha ticket yako na kukaguliwa kisha utaongozwa mpaka kwenye hoteli uliyolipia </li> 
- <li>Hotelini utapewa chumba na mtu wa kukuongoza siku zote utakazokua mbugani </li> 
+ <li>Nenda mpaka mwisho wa hii barabara</li> 
+ <li>Kish kata kulia </li> 
+ <li>Nenda moja kwa moja mpaka utakuta soko pale soko la mambo ya utalii  </li> 
+ <li>Baada ya soko utakuta kuna barabara mbili kata kulia </li> 
+ <li>Ukianda mbele kidogo tu utaona jengo la ghorofa mbili hapa ndio kuna ofisi za utalii </li> 
 </ol>
 </body>
 </html>
 ````
 
- 
+### Orodha iliyo ndani ya nyingine *nested ordered*
+Orodha hii inakua ndani ya orodha nyingine. haijalishi orodha gani itakua ndani au itakua nje. Maana orodha isiyo na mpangilio inaweza kuwa ndani ya isiyo kuwa na mpangilio mwezake au ndani ya iliyo na mpangilio, pia na kinyume chake inakubalika pia.
+
+**index.html**
+```html
+<!DOCTYPE html>
+<html lang="sw">
+  <head>
+    <title>Serengeti<title>
+     <meta name="author" content="Yahaya Frezier">
+     <meta name="description" content="Wannyama wanaopatika serengeti">
+  </head>
+  <body>
+
+<h1>Wanyama wanaopatika serengeti</h1>
+
+<p>Baadhi ya wanyama wanao patikana kwenye mbuga ya senerengiti ni hawa</p>
+
+<ol>
+ <li>Nenda mpaka mwisho wa hii barabara</li> 
+ <li>Kish kata kulia </li> 
+ <li>Nenda moja kwa moja mpaka utakuta soko pale soko la mambo ya utalii unaweza ukanunua vitu kama vile </li>
+      <ul>
+        <li>vinyago</li>
+        <li>fulana</li>
+        <li>urembo</li>  
+      </ul>  
+ <li>Baada ya soko utakuta kuna barabara mbili kata kulia </li> 
+ <li>Ukianda mbele kidogo tu utaona jengo la ghorofa mbili hapa ndio kuna ofisi za utalii </li> 
+</ol>
+</body>
+</html>
+````
+## Msisitizo au mkazo (*Emphasis*)
+Wakati mwingine tunapoandika au kuongea tunaonyesha msisitizo au mkazo kwenye maneno fulani. Vile vile *HTML* kuna jinsi ambavyo inaweka msisitiozo kwenye maudhui. 
+
+Kwenye HTML msisitizo unawekwa kwa kutumia `<em></em>`. *Browser* inawlionyesha neno kwa mlazo (*italic*). Vile vile *screen reader* inakua na uwezo wa kusoma kwa sauti tofauti ili kuonyesha msisitizo.
+
+```html
+<!DOCTYPE html>
+<html lang="sw">
+  <head>
+    <title>Serengeti<title>
+     <meta name="author" content="Yahaya Frezier">
+     <meta name="description" content="Wannyama wanaopatika serengeti">
+  </head>
+  <body>
+
+<p>Ukiwa mbugani ni marufuku kutupa  <em>takataka</em> faini yake ni <em>TZS 300,000</em>.</p>
+
+</body>
+</html>
+
+```
+
+*Angalizo*
+Tafadhali usitumie `<em></em>` kama nia yako ni kulaza maandishi ila tumia `<i></i>` au `<span></span>` na kisha tumia CSS kulaza maandishi
+  
+## Muhimu (*Important*)
+Kuweka mkazo kwenye maneno fulani tunatamka kwa kuweka mkazo na wakati wa kuandika tuna yafanya yaonekane makali zaidi (*bold*)
+kwa mfano 
+
+Nakutegemea kwenye kikao chetu cha leo **Usichelewe**
+
+Kwenye *HTML* tunatumia `<strong>` *element* kuyakoleza mananeno yake muhimu. Vilevile kwa wale walemavu wa macho zile scrren reader zina kuwezo wa kutoa sauti ya msisitizo kwenye maneno yote yaliyo ndani ya tag hii `<strong></strong>`
+
+*Angalizo*
+Tafadhali usitumie `<strong>` kama nia yako ni kukoleza maandishi ila tumia `<b></b>` au `<span></span>` na kisha tumia CSS kukoleza maandishi
+
+```html
+<p>Pombe hii ni <strong>Kali sana</strong>.</p>
+
+<p>Nakuamini. <strong>Usinywe</strong> sana!</p>
+
+```
 
