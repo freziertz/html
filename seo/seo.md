@@ -1,17 +1,17 @@
-# SEO (Search Engine Optimization) 
-is the process of making a website more visible in search results, also termed improving search rankings.
+# SEO (Search Engine Optimization)
+ni mchakato wa kufanya tovuti iwe wazi zaidi au kupatikana kwa urahisi katika matokeo ya utafutaji (search), pia  inaboresha kiwango cha utafutaji maana inafanya tovuti yako iwe ya juu kwenye orodha.
 
-Search engines crawl the web, following links from page to page, and index the content found. When you search, the search engine displays the indexed content. Crawlers follow rules. If you follow those rules closely when doing SEO for a website, you give the site the best chances of showing up among the first results, increasing traffic and possibly revenue (for ecommerce and ads).
+Injini za utafutaji (*search engine*) zinatambaa (*crawl*) kwenye wavuti mbalimbali, kwa kufuata viungo (*links*) kutoka kwenye ukurasa hadi ukurasa, na kisha zinahifadhi maudhui yaliyopatikana kwenye mashine zao. Unapotafuta kitu kwenye mtandao, injini ya utafutaji inaonyesha maudhui yaliyohifadhiwa. Utambaaji *crawlering* huo unafuata sheria. Ukiwa unafuata sheria hizo kwa umakini wakati wa kufanya *SEO* kwa tovuti yako, unaipa tovuti yako nafasi nzuri ya juu kwenye matokeo ya kwanza, hii inaongeza watumiaji na pia uwezekano wa kuongeza mapato kwa zile tovuti za biashara na matangazo.
 
-Search engines give some guidelines for SEO, but big search engines keep result ranking as a trade secret. SEO combines official search engine guidelines, empirical knowledge, and theoretical knowledge from science papers or patents.
+Injini za utafutaji hutoa miongozo ya *SEO*. Lakini kutokana na sababu za kibiashara, injini kubwa za utafutaji kama vile *google search engine* wanafanya siri mbinu wanazotumia kuzipa nafasi ya juu wovuti kwenye matokeo ya utafutaji. *SEO* inaunganisha. *SEO* inachanganya miongozo inayotolewa na makampuni yanayomiliki injini za utafutaji, ujuzi wa maarifa, na ujuzi wa kinadharia kutoka kwenye tafiti mbalimbali za kisayansi.
 
-SEO methods fall into three broad classes:
+Njia za *SEO* zinaangukia kwenye makundi makubwa matatu:
 
-## technical
-Tag the content using semantic HTML. When exploring the website, crawlers should only find the content you want indexed.
+## kiufundi (*technical*)
+Andika (*Tag*) maudhui kwa kutumia muundo na kanuni (*semantic*) za HTML. Wakati wa kuchunguza au kuperizi tovuti, watambaaji *crawlers* wanapaswa kupata tu maudhui unayotaka yahifadhiwe *indexed*.
 
 ## copywriting
-Write content using your visitors' vocabulary. Use text as well as images so that crawlers can understand the subject.
+Andika maudhui kwa kutumia maneno au msamiati wa watumiaji wako. Tumia maandishi pamoja na picha ili watambaaji *crawlers* waweze kuelewa somo.
 
-## popularity
-You get most traffic when other established sites link to your site.
+## umaarufu (*popularity*)
+Unapata watumiaji wengi pale tovuti nyingine zinapo weka viunganishi (*link*) kuelekea tovuti yako.
