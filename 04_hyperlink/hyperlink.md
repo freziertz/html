@@ -37,7 +37,7 @@ Kimsingi unatengeneza *link* kwa kuweka maandishi au sehemu unayotaka kuifanya *
   </body>
 </html>
 ```
-  
+
 *Attribute* nyingine ambayo unaweza kutumia kwenye link ni *title* hii inakuwa na maelezo ya ziada kuhusiana na hiyo *link* ambapo mtumiaji akiweka kasa kwenye hiyo link atapata hayo maelezo kama *Tooltip*.
 
 **index.html** 
@@ -88,7 +88,9 @@ Ukitaka kuelewa vizuri kuhusiana na link ni vyema ukajua maana ya url
 kwa mfano mtandao wa Tanapa unapatika kwa anuani hii http://www.tanzaniaparks.go.tz
 
 ### Path
-Paths inataja file lile unaloliitaji liko wapi kwenye filesystem yaani kwenye komputa au server  
+Paths inataja file lile unaloliitaji liko wapi kwenye filesystem yaani kwenye komputa au server 
+
+![simple-directory](E:\xampp\htdocs\html\04_hyperlink\assets\simple-directory.png)
 
 ### Kanuni za kutengeneza *link*
 * Tumia mananeo yanayo eleweka kwa mfano *screen reader* inatumia link kutoka sehemu moja kwenda sehemu nyingine
