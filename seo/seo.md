@@ -13,5 +13,7 @@ Andika (*Tag*) maudhui kwa kutumia muundo na kanuni (*semantic*) za HTML. Wakati
 ## copywriting
 Andika maudhui kwa kutumia maneno au msamiati wa watumiaji wako. Tumia maandishi pamoja na picha ili watambaaji *crawlers* waweze kuelewa somo.
 
+=======
 ## umaarufu (*popularity*)
 Unapata watumiaji wengi pale tovuti nyingine zinapo weka viunganishi (*link*) kuelekea tovuti yako.
+
