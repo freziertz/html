@@ -90,7 +90,7 @@ kwa mfano mtandao wa Tanapa unapatika kwa anuani hii http://www.tanzaniaparks.go
 ### Path
 Paths inataja file lile unaloliitaji liko wapi kwenye filesystem yaani kwenye komputa au server 
 
-![simple-directory](E:\xampp\htdocs\html\04_hyperlink\assets\simple-directory.png)
+
 
 ### Kanuni za kutengeneza *link*
 * Tumia mananeo yanayo eleweka kwa mfano *screen reader* inatumia link kutoka sehemu moja kwenda sehemu nyingine
