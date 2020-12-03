@@ -1,4 +1,9 @@
+Habari
+
+Jina langu naitwa Yahaya Frezier
+
 # Who is this book for
+
 If you can answer “yes” to all of these:
 
 1. Do you have access to a computer with a Web browser and a text editor?
@@ -152,7 +157,7 @@ information. There are many ways information can be passed between
 computers, including email, file transfer (FTP), and many more specialized
 modes upon which the Internet is built. These standardized methods for
 transferring data or documents over a network are known as protocols
- 
+
 # web
 The Web is a subset of the Internet. It is just one of many ways information can be transferred overnetworked computers
 
@@ -199,3 +204,4 @@ A basic HTML document looks like this:
     <!-- this is a comment -->
   </body>
 </html>
+
