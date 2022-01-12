@@ -93,21 +93,19 @@ Angalia kwa makini utaona kila attribute ina vitu viwili vya kuzingatia yaani ji
 
 # Angalizo!
 
-Kitu kikubwa cha kuchunga kwnye HTML au lugha yeyote ya kumputa ni kufuata weledi wa hiyo lugha inavyotaka kwa maana komputa inafuata maelekezo na haipindishi wala haina uwezo wa kufikiria na kurekebisha makosa yako. HTML inataka <p> iwe na mwanzo wake ambayo ni </p> . Sasa unaweza kutumia kam hivi na komputa ikaelewa
+Kitu kikubwa cha kuchunga kwnye HTML au lugha yeyote ya kumpyuta ni kufuata weledi wa hiyo lugha inavyotaka kwa maana kompyuta inafuata maelekezo bila kupindisha wala haina uwezo wa kufikiria na kurekebisha makosa yako. HTML inataka <p> iwe na mwanzo wake ambayo ni </p> . Sasa unaweza kutumia kam hivi na kompyuta ikaelewa
 
 ```htm	
 <p>Hii itasomeka vizuri sana kama kawaida
 <p> Hii pia itasomeka vizuri, ila sasa
-<p> ukitaka kuweka kitu kingine kati kati ndio <a href="">shida inapoanza</a> hapo komputa haijui p imeisha ndio ikaanza a au a iko ndani ya p
+<p> ukitaka kuweka kitu kingine katikati ndio <a href=""> shida inapoanza </a> hapo kompyuta haijui p imeisha ndio ikaanza a au a iko ndani ya p
 <p>pia usichanganye vitu kama iko ndani weka ndani <em> sio </p> </em> hii sio sahini
 <p>Kwa hivyo utaona ni vyyema kutumia <em>lebo ya kufungi</em></p> kila wakati
 ```
 
 
 
-l.
-
-But there are other ambiguities to consider. For example, when a browser receives a file, it may know that it's receiving an HTML file, but it won't know which version of HTML is used (it matters).  That's why the first thing you need in any HTML file is a tag to tell you that what type of HTML file it is:
+Lakini kuna kitu kingine cha kuzingatia. Kwa mfano, pale *browser* inapopokea *file* inaweza kutambua kwamba imepokea *HTML file* , lakini haitajua *version* gani ya *HTML* iliyotumika maana hiyo *version* ni muhimu sana. Ndio maana kitu cha kwanza kinacho hitajika kwenye *HTML file* yeyote ile ni tag ambayo itaeleza ni aina gani ya HTML file*:-
 
 ```html
 <!DOCTYPE html>
@@ -225,7 +223,7 @@ Ni utaratibu wa kuvipa vipengele maana na muundo kwa kutumia kipengele mahususi.
 
 Unajua sio siri, utoaji wa habari umeamia kwenye mitandao, mitandao mingi inatumika kutoa habari mbali mbali kama ilivyo magazeti, lakini mtandao ni zaidi ya gazeti, maana inaweza kutoa habari kwa maandishi, picha, video, sauti na pia inatumika kwenye mifumo *application* mbali mbali kwenye kukusanya *data* na kuweza kuzikata na kutoa taarifa. Hivyo basi kurasa ya mtandao inaweza ikawa na vichwa vya habari *(heading)*, aya *(paragraph)*, orodha *(list)*, Picha, video, sauti, fomu za kukusanya taarifa, jedwali na mengineo.
 
-  
+
 ### Vifaa Unavyopaswa Kuwa Navyo
 Kimsingi ni kifaa kimoja tu ambacho ni Kompyuta basi. Ni kompyuta yeyote ile yenye uwezo wa kutengeneza, kutunza na kufungua *file*. 
 
